@@ -1,10 +1,5 @@
 Hello,
 
-thank you for downloading IT Worker.
-
-
-*Everything is kept simple so you should not have any problems implementing the template. I will try to answer few of the possible questions below.*
-
 
 **Changing the colour of the theme**
 
@@ -13,11 +8,7 @@ Every colour variant has its appropriate stylesheets located in the /css directo
 
 **Javascript**
 
-Apart from Bootstrap JS components majority of JS is located in /js/front.js. In this file you can change the settings of the owl carousel, google maps settings etc. 
-
-**Google Maps**
-
-Google maps are used on the contact page. If you need just to show location of the company on the map, the only neccessary thing is to change coordinates in the header of contact.html. For further settings and possibilities please consult [Google Maps API documentation](https://developers.google.com/maps/documentation/javascript/).
+Apart from Bootstrap JS components majority of JS is located in /js/front.js. In this file you can change the settings of the owl carousel.
 
 **Contact form**
 
@@ -27,23 +18,17 @@ To set up contact form:
 2. Make directory php/temp writeable (change attributes to 777)
 3. Edit the options in contact.php file. The most important are: `$from` and `$sendTo`. The rest can remain as it is.
 
-Thank you for downloading!
-
-In case you would need some custom modifications, don't hesitate to get in touch.
-
-ondrique, (ahoj@ondrejsvestka.cz)
-
 ## Credits ##
 
 - Bootstrap 3.3 - [http://getbootstrap.com/](http://getbootstrap.com/)
-- Photos for demo purposes [IM FREE](http://www.imcreator.com/free)
+
 
 **Plugins used in the template**
 
 - Owl Carousel ([http://www.owlgraphic.com/owlcarousel/](http://www.owlgraphic.com/owlcarousel/))
 - jQuery Waypoints ([http://imakewebthings.com/jquery-waypoints/](http://imakewebthings.com/jquery-waypoints/))
 - animate.css ([http://daneden.github.io/animate.css/](http://daneden.github.io/animate.css/))
-- Modernizr ([http://modernizr.com/](http://modernizr.com/)) 
+- Modernizr ([http://modernizr.com/](http://modernizr.com/))
 - Bootstrap Hover Dropdown plugin ([https://github.com/CWSpear/bootstrap-hover-dropdown](https://github.com/CWSpear/bootstrap-hover-dropdown))
 - jQuery scrollTo ([http://demos.flesler.com/jquery/scrollTo/](http://demos.flesler.com/jquery/scrollTo/))
 - gmaps.js ([http://hpneo.github.io/gmaps/](http://hpneo.github.io/gmaps/))
@@ -58,15 +43,12 @@ ondrique, (ahoj@ondrejsvestka.cz)
 - Roboto ([https://www.google.com/fonts/specimen/Roboto](https://www.google.com/fonts/specimen/Roboto))
 - Roboto Slab ([http://www.google.com/fonts/specimen/Roboto+Slab](http://www.google.com/fonts/specimen/Roboto+Slab))
 
-**Images**
-
-- Markus Spiske ([https://www.flickr.com/photos/125167502@N02/](https://www.flickr.com/photos/125167502@N02/))
 
 ## Changelog ##
 
-    
+
     **Version 1.0**
-    
+
     Initial release
 
 
