@@ -1,9 +1,10 @@
-Hello,
+My Portfolio
 
+This is how it was put together
 
 **Changing the colour of the theme**
 
-Every colour variant has its appropriate stylesheets located in the /css directory. To change the colour of the template simply change the path in the header of the HTML template, i.e. from *style.default.css* to *style.pink.css*.
+Every colour variant has its appropriate stylesheets located in the /css directory. To change the colour of the template simply change the path in the header of the HTML template, i.e. from *style.default.css* to *style.green.css*.
 
 
 **Javascript**
